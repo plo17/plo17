@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**plo17/plo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate data enthusiast with an MSc in Bioinformatics, where I combined my love for data analysis with artificial intelligence, especially deep learning.
 
-Here are some ideas to get you started:
+I’m fascinated by how AI and data-driven solutions can transform everyday life and business processes. I’m constantly exploring new tools and technologies to expand my skill set.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m working with and learning:
+
+- **Programming Languages:** Python, R
+- **BI & Data Visualization Tools:** Power BI, Looker Studio, Tableau
+- **AI & Machine Learning:** Deep Learning, data modeling, predictive analytics
+
+I’m excited about applying my knowledge to solve real-world problems and contribute to innovative projects across various fields.
+
