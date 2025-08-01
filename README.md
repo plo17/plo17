@@ -6,7 +6,7 @@ I’m fascinated by how AI and data-driven solutions can transform everyday life
 
 Currently, I’m working with and learning:
 
-- **Programming Languages:** Python, R
+- **Programming Languages:** Python, R, SQL
 - **BI & Data Visualization Tools:** Power BI, Looker Studio, Tableau
 - **AI & Machine Learning:** Deep Learning, data modeling, predictive analytics
 
