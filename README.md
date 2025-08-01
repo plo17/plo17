@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m a passionate data enthusiast with an MSc in Bioinformatics, where I combined my love for data analysis with artificial intelligence, especially deep learning.
+I’m a data enthusiast with an MSc in Bioinformatics, where I combined my love for data analysis with artificial intelligence, especially deep learning.
 
 I’m fascinated by how AI and data-driven solutions can transform everyday life and business processes. I’m constantly exploring new tools and technologies to expand my skill set.  
 
